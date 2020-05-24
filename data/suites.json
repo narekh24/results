@@ -1,0 +1,22 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "Reports",
+    "children" : [ {
+      "name" : "MYIA2-T2845 Reports",
+      "uid" : "4975afa516dde05c",
+      "parentUid" : "267b49163a65e39569c38ebc4123296c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1590057120305,
+        "stop" : 1590057139976,
+        "duration" : 19671
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-81.0.4044.138" ]
+    } ],
+    "uid" : "267b49163a65e39569c38ebc4123296c"
+  } ]
+}
