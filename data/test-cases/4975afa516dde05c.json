@@ -1,0 +1,191 @@
+{
+  "uid" : "4975afa516dde05c",
+  "name" : "MYIA2-T2845 Reports",
+  "fullName" : "Reports.MYIA2-T2845 Reports",
+  "historyId" : "ec96b1b50e68ec7478a2f28e49becf1a",
+  "time" : {
+    "start" : 1590057120305,
+    "stop" : 1590057139976,
+    "duration" : 19671
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Given I am an Admin",
+      "time" : {
+        "start" : 1590057120310,
+        "stop" : 1590057128500,
+        "duration" : 8190
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "And I am on Admin Home page",
+      "time" : {
+        "start" : 1590057128500,
+        "stop" : 1590057128512,
+        "duration" : 12
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "And I click \"Reports\" button in leftside menu",
+      "time" : {
+        "start" : 1590057128512,
+        "stop" : 1590057129487,
+        "duration" : 975
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Then I led to the \"All Reports\" page",
+      "time" : {
+        "start" : 1590057129487,
+        "stop" : 1590057138920,
+        "duration" : 9433
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "And I see \"User Reports\" text in heading",
+      "time" : {
+        "start" : 1590057138920,
+        "stop" : 1590057138979,
+        "duration" : 59
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "And I see \"Show Unsubscribed\" switch",
+      "time" : {
+        "start" : 1590057138979,
+        "stop" : 1590057139035,
+        "duration" : 56
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "And I see the folowing inputs",
+      "time" : {
+        "start" : 1590057139035,
+        "stop" : 1590057139198,
+        "duration" : 163
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "And I see the following columns",
+      "time" : {
+        "start" : 1590057139198,
+        "stop" : 1590057139974,
+        "duration" : 776
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 8,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "TestCaseKey",
+    "value" : "MYIA2-T2845"
+  }, {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Reports"
+  }, {
+    "name" : "testClass",
+    "value" : "Reports"
+  }, {
+    "name" : "testMethod",
+    "value" : "MYIA2-T2845 Reports"
+  }, {
+    "name" : "package",
+    "value" : "Reports"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-81.0.4044.138"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "4975afa516dde05c.json",
+  "parameterValues" : [ "chrome-81.0.4044.138" ]
+}
